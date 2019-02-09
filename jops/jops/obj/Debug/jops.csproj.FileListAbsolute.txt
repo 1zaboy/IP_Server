@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\jops\jops\bin\Debug\jops.exe.config
+C:\Users\Vlad\source\repos\jops\jops\bin\Debug\jops.exe
+C:\Users\Vlad\source\repos\jops\jops\bin\Debug\jops.pdb
+C:\Users\Vlad\source\repos\jops\jops\obj\Debug\jops.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\jops\jops\obj\Debug\jops.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\jops\jops\obj\Debug\jops.exe
+C:\Users\Vlad\source\repos\jops\jops\obj\Debug\jops.pdb
